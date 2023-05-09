@@ -1,6 +1,6 @@
 ## Short-Term Temperature Forecasting for Berlin-Tempelhof
 
-This project focuses on creating a short-term temperature forecast for Berlin-Tempelhof. The goal is to develop a reliable model that accurately predicts the temperature based on historical data. The following steps will be undertaken:
+This project focuses on creating a short-term temperature forecast for Berlin-Tempelhofer Flughafen. The goal is to develop a reliable model that accurately predicts the temperature based on historical data. The following steps will be undertaken:
 
 1. **Data Collection and Cleaning**: Temperature data will be obtained from www.ecad.eu and processed to ensure its quality and consistency.
 
@@ -10,4 +10,4 @@ This project focuses on creating a short-term temperature forecast for Berlin-Te
 
 4. **Statistical Comparison**: The output of different AR models will be compared using statistical metrics to assess their accuracy and predictive power. This analysis will help identify the most suitable AR model for short-term temperature forecasting.
 
-By completing this project, we aim to provide a reliable temperature forecasting solution for Berlin-Tempelhof, enabling better planning and decision-making in various sectors that are sensitive to temperature changes. The project code and results will be shared on GitHub, facilitating collaboration and knowledge sharing among the data science community.
+By completing this project, I aim to provide a reliable temperature forecasting solution for Berlin-Tempelhof, enabling better planning and decision-making in various sectors that are sensitive to temperature changes. The project code and results will be shared on GitHub, facilitating collaboration and knowledge sharing among the data science community.
